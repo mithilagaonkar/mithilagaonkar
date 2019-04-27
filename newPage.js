@@ -6,6 +6,9 @@ function getUserListing() {
     
 };
 
+function fetchUsersCount(){
+    console.log("This function is used to fetch the number of users");
+}
 function deleteUser(id) {
     deleteUser(id);
     console.log('get a list of roles for users...');
